@@ -1,0 +1,31 @@
+{
+  "id" : "adf280a9-8dc4-4c40-8cde-f87e304f4836",
+  "names" : [ {
+    "value" : "Default Policy for API Demo3Math",
+    "locale" : "English"
+  } ],
+  "descriptions" : [ {
+    "value" : "",
+    "locale" : "English"
+  } ],
+  "scope" : {
+    "scopeConditions" : [ ]
+  },
+  "policyEnforcements" : [ {
+    "enforcements" : [ {
+      "enforcementObjectId" : "0014c65c-2990-411d-ac70-3fbfb9604d90"
+    }, {
+      "enforcementObjectId" : "eddd355e-ad1e-4638-b2cf-7a8abfd9b97f"
+    } ],
+    "stageKey" : "routing"
+  }, {
+    "enforcements" : [ {
+      "enforcementObjectId" : "63e974db-2b28-4ca4-8a0a-39194c0c967c"
+    } ],
+    "stageKey" : "transport"
+  } ],
+  "policyScope" : "SERVICE",
+  "systemPolicy" : false,
+  "active" : false,
+  "global" : false
+}

@@ -1,0 +1,16 @@
+{
+  "id" : "63e974db-2b28-4ca4-8a0a-39194c0c967c",
+  "names" : [ {
+    "value" : "Require HTTP / HTTPS",
+    "locale" : "en"
+  } ],
+  "templateKey" : "entryProtocolPolicy",
+  "parameters" : [ {
+    "templateKey" : "protocol",
+    "values" : [ "http" ]
+  }, {
+    "templateKey" : "soapVersion",
+    "values" : [ "soap" ]
+  } ],
+  "active" : false
+}

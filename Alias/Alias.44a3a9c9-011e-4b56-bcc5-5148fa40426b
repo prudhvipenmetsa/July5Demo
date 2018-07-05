@@ -1,0 +1,14 @@
+{
+  "type" : "endpoint",
+  "id" : "44a3a9c9-011e-4b56-bcc5-5148fa40426b",
+  "name" : "DEMO_MATH2_ENDPOINT",
+  "type" : "endpoint",
+  "owner" : "Administrator",
+  "endPointURI" : "http://webm101.prudhvi.com:9955/ws/APIGatewayDemo.ws:math/APIGatewayDemo_ws_math_Port",
+  "connectionTimeout" : 30,
+  "readTimeout" : 30,
+  "suspendDurationOnFailure" : 0,
+  "optimizationTechnique" : "None",
+  "passSecurityHeaders" : false,
+  "keystoreAlias" : ""
+}

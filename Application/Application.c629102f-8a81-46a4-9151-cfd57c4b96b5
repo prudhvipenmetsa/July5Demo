@@ -1,0 +1,42 @@
+{
+  "applicationID" : "c629102f-8a81-46a4-9151-cfd57c4b96b5",
+  "name" : "soapui",
+  "owner" : "Administrator",
+  "identifiers" : [ {
+    "id" : "ecc92333-a567-4514-a2b8-9fbb5f9bc660",
+    "key" : "httpBasicAuth",
+    "swaggerName" : "",
+    "swaggerValue" : [ ],
+    "namedValues" : [ {
+      "name" : "Username",
+      "values" : [ "soapui" ]
+    } ]
+  } ],
+  "contactEmails" : [ ],
+  "accessTokens" : {
+    "apiAccessKey" : {
+      "apiAccessKey" : "11f487d045b305c974122c9d7c894a97e35508304c16ee9aa930476fdea709cb"
+    },
+    "oauth2Token" : {
+      "type" : "confidential",
+      "clientId" : "7a61cee7-9bd1-48af-b288-4181ade0ca7c",
+      "clientSecret" : "********************************",
+      "clientName" : "soapui-b1c71cee-ca6d-4397-a9bb-ae233a8ebaea",
+      "scopes" : [ "fba20861-453f-4918-9d79-1c04ec3c4bcb", "2e23030e-aa53-408f-b90a-5591cfc30922" ],
+      "expirationInterval" : "3600",
+      "refreshCount" : "0",
+      "accessTokenRequestURI" : [ ],
+      "redirectUris" : [ "https://placeholder_redirect_uri" ]
+    }
+  },
+  "creationDate" : "2018-07-04 20:02:46 GMT",
+  "lastModified" : "2018-07-05 10:57:53 GMT",
+  "siteURLs" : [ ],
+  "jsOrigins" : [ ],
+  "version" : "1.0",
+  "token_lifetime" : "3600",
+  "token_refresh_count" : "0",
+  "redirectUris" : [ "https://placeholder_redirect_uri" ],
+  "isSuspended" : false,
+  "subscription" : false
+}
